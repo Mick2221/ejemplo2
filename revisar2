@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html><!--Esta etiqueta indica el inicio del programa-->
+<head><!--esta etiquetaindica la cabeza del documento-->
+
+<title>Mi pagina web</title><!-- --><!--esta etiqueta es el titulo de la pestaña del navegador-->
+
+</head><!--finalizacion de la cabeza del inicio-->
+
+<body><!--indica el cuerpo del documento-->
+
+<aside><p> informacion del brazo izquierdo </aside><!-- informacion del brazo -->
+
+<aside><p> informacion del brazo derecho </aside><!-- informacion del brazo -->
+
+<h1> introduccion a la programacion </h1><!--esta indica el titulo del contenido-->
+
+<p> esta pagina esta destinada para aprender diseno web</p><!--introduccion de un parrafo -->
+
+<footer><p> informacion de pie de pagina.</p></footer>
+
+</body>
+</html>
